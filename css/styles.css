@@ -1,0 +1,16 @@
+body
+{ color: rgb(255,0,0);
+font font-family: arial;
+margin:opx;
+}
+h1,h2{
+  text-align: center;
+}
+img{border-radius: 50%;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
